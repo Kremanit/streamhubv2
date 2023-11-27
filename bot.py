@@ -63,5 +63,5 @@ async def ping(inter):
 
 
 
-token = 'ODU5NDQyOTgwMzA1NjMzMzMw.Gch_0Y.tk4XYbGCBpL_hnEsCtSkszU6D2xWqEybkb0VWc'
+token = '***********'
 client.run(token)
